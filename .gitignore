@@ -1,0 +1,56 @@
+# .NET / C# specific
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Visual Studio
+.vs/
+*.swp
+*.swo
+*~
+.idea/
+*.rsuser
+*.tmp
+*.temp
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# User-specific files
+*.userprefs
+*.sln.docstates
+*.vspscc
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Project local configuration
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
