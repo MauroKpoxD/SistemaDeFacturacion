@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="../POSBackend.Tests/POSBackend.Tests.csproj" />
+  <Project Path="../POSBackend/POSBackend.vcxproj" />
+  <Project Path="POSFrontend.csproj" />
+</Solution>
